@@ -1,0 +1,7 @@
+1. IDE Setup - create environments/condarc/Jupyter Notebooks/Spyder
+2. Variables, Flow Control, and Function Definitions
+3. Lists and Dictionaries
+4. File/Operating System libraries
+5. Reading/Writing Files
+6. Data Manipulation Libraries - Pandas/Numpy
+7. Creating Windows API objects
