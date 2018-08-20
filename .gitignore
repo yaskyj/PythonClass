@@ -17,6 +17,8 @@
 *.wav
 *.json
 
+NotesForInstalls.txt
+
 #Mac files
 .DS_Store
 
