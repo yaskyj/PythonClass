@@ -8,7 +8,6 @@
 *.zip
 *.xlsx
 *.h5
-*.jpg
 *.npy
 *.pptx
 *.png
