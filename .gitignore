@@ -16,6 +16,8 @@
 *.wav
 *.json
 
+secrets.py
+
 NotesForInstalls.txt
 
 #Mac files
