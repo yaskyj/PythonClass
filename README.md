@@ -4,4 +4,4 @@
 Once downloaded, run the executable, and click through the installation wizard leaving all defaults. The Anaconda distribution contains many additional useful libraries for Python.
 
 ### Now click on the green "Clone or download" button on the right, then click "Download ZIP" (see below)
-![download picture](gitdownload.jpg)
+![download picture](https://github.com/yaskyj/PythonClass/blob/master/gitdownload.JPG?raw=true)
