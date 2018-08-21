@@ -5,3 +5,5 @@ Once downloaded, run the executable, and click through the installation wizard l
 
 ### Now click on the green "Clone or download" button on the right, then click "Download ZIP" (see below)
 ![download picture](https://github.com/yaskyj/PythonClass/blob/master/gitdownload.JPG?raw=true)
+
+### Unzip the file and all of the files for the class will be contained with the folder.
