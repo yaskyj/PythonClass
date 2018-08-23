@@ -1,6 +1,6 @@
 1. IDE Overview - Anaconda prompt/condarc/Jupyter Notebooks/Spyder/troubled installs
 2. Basic Operations, Variables, and Input
-3. Flow Control and Function Definitions
+3. Flow Control and Functions
 4. Lists and Dictionaries
 5. Reading/Writing Files and Operating System
 6. Data Manipulation Libraries - Pandas/Numpy/Pyodbc/SQLAlchemy
