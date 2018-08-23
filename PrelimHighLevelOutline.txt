@@ -1,4 +1,4 @@
-1. IDE Overview - Anaconda prompt/condarc/Jupyter Notebooks/Spyder/troubled installs
+1. IDE Overview - Anaconda prompt/condarc/Jupyter Notebooks/Spyder/troubleshoot problem installs
 2. Basic Operations, Variables, and Input
 3. Flow Control and Functions
 4. Lists and Dictionaries
