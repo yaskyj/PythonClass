@@ -2,6 +2,6 @@
 2. Basic Operations, Variables, and Input
 3. Flow Control and Functions
 4. Lists and Dictionaries
-5. Reading/Writing Files and Operating System
+5. Operating System and Reading/Writing Files
 6. Data Manipulation Libraries - Pandas/Numpy/Pyodbc/SQLAlchemy
 7. Creating Windows API objects
