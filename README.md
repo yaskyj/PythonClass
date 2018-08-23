@@ -20,6 +20,6 @@ Click on the green "Clone or download" button on the right, then click "Download
 2. Basic Operations, Variables, and Input
 3. Flow Control and Functions
 4. Lists and Dictionaries
-5. Operating System and Reading/Writing Files
+5. Operating System, Reading/Writing Files, and Regex
 6. Data Manipulation Libraries - Pandas/Numpy/Pyodbc/SQLAlchemy
 7. Creating Windows API objects
