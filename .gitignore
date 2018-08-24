@@ -6,7 +6,6 @@
 *.docx
 *.pdf
 *.zip
-*.xlsx
 *.h5
 *.npy
 *.pptx
